@@ -1,0 +1,367 @@
+{
+  "products": [
+    {
+      "title": "Lumina Apex ANC Wireless Headphones",
+      "subtitle": "High-Resolution Spatial Audio & Pure Silence",
+      "description": "Mastercrafted with aerospace-grade anodized aluminum and memory foam acoustic seals. Featuring 40mm beryllium drivers, active hybrid noise cancellation, 45-hour battery life, and ultra-low latency spatial tracking for an ethereal soundstage.",
+      "price": 349.99,
+      "originalPrice": 429.99,
+      "category": "Audio",
+      "image": "/images/products/apex-headphones.jpg",
+      "rating": 4.9,
+      "numReviews": 128,
+      "stockCount": 18,
+      "inStock": true,
+      "tag": "Best Seller",
+      "features": [
+        "Active Hybrid ANC with 8 Beamforming Mics",
+        "Lossless 24-bit/96kHz Hi-Res Wireless Codec",
+        "45-Hour Ultra-Fast Battery (10 min charge = 5 hrs)",
+        "Plush Lambskin & Memory Foam Cushions",
+        "Dynamic Head-Tracking Spatial Audio"
+      ],
+      "specs": {
+        "Driver Size": "40mm Custom Beryllium",
+        "Frequency Response": "10Hz - 40,000Hz",
+        "Weight": "255g",
+        "Connectivity": "Bluetooth 5.4 + 3.5mm Lossless USB-C",
+        "Warranty": "2 Years Comprehensive"
+      },
+      "_id": "prod_1793078497982_0",
+      "id": "prod_1793078497982_0",
+      "createdAt": "2026-10-27T05:21:37.982Z",
+      "updatedAt": "2026-10-27T05:21:37.983Z"
+    },
+    {
+      "title": "Aether Chronos Titan Smartwatch",
+      "subtitle": "Surgical Titanium & Sapphire Precision Chronometer",
+      "description": "Forged from Grade 5 titanium with a micro-curved sapphire crystal AMOLED touch display. Equipped with clinical-grade biometric telemetry, dual-band GPS, 100m water resistance, and an adaptive 14-day battery cycle.",
+      "price": 499,
+      "originalPrice": 599,
+      "category": "Wearables",
+      "image": "/images/products/chronos-watch.jpg",
+      "rating": 4.8,
+      "numReviews": 94,
+      "stockCount": 12,
+      "inStock": true,
+      "tag": "Flagship",
+      "features": [
+        "Grade 5 Aerospace Titanium Unibody",
+        "1.43\" Curved Sapphire AMOLED (2,000 nits peak)",
+        "Continuous ECG, SpO2 & Heart Rate Variability",
+        "Dual-Frequency Multi-GNSS Satellite Tracking",
+        "14-Day Typical Battery Life on a Single Charge"
+      ],
+      "specs": {
+        "Case Diameter": "44mm Titanium",
+        "Water Resistance": "10 ATM (100 meters)",
+        "Display": "1.43-inch Always-On AMOLED",
+        "Sensors": "Optical 8-LED Heart, ECG, Altimeter, Gyro",
+        "Compatibility": "iOS & Android Sync"
+      },
+      "_id": "prod_1793078497983_1",
+      "id": "prod_1793078497983_1",
+      "createdAt": "2026-10-27T05:21:37.983Z",
+      "updatedAt": "2026-10-27T05:21:37.983Z"
+    },
+    {
+      "title": "Veloce Blade 14 Ultra OLED Laptop",
+      "subtitle": "Featherlight 990g Carbon Body & M-Class Power",
+      "description": "Engineered for visionary creators. Powered by a high-efficiency 12-core processor, cutting-edge 120Hz 3K OLED NanoEdge display, 32GB LPDDR5X RAM, and 1TB PCIe 4.0 NVMe SSD, all within an astonishing 11.8mm thin obsidian profile.",
+      "price": 1899,
+      "originalPrice": 2199,
+      "category": "Computing",
+      "image": "/images/products/blade-laptop.jpg",
+      "rating": 4.9,
+      "numReviews": 67,
+      "stockCount": 5,
+      "inStock": true,
+      "tag": "Staff Pick",
+      "features": [
+        "14.0\" 3K (2880x1800) 120Hz OLED with 100% DCI-P3",
+        "Next-Gen 12-Core Architecture with Dedicated AI NPU",
+        "32GB Ultra-Fast LPDDR5X Memory & 1TB NVMe Storage",
+        "Magnesium-Carbon Unibody weighing only 990 grams",
+        "Thunderbolt 4, Wi-Fi 7, and 18-Hour Workday Battery"
+      ],
+      "specs": {
+        "Processor": "Octa-Core AI Accelerated SoC (Up to 5.1GHz)",
+        "Display": "14.0\" 3K OLED 120Hz HDR 600",
+        "Memory": "32GB LPDDR5X 7500MHz",
+        "Storage": "1TB NVMe PCIe Gen4 M.2 SSD",
+        "Weight": "0.99 kg (2.18 lbs)"
+      },
+      "_id": "prod_1793078497983_2",
+      "id": "prod_1793078497983_2",
+      "createdAt": "2026-10-27T05:21:37.983Z",
+      "updatedAt": "2026-10-27T06:12:47.628Z"
+    },
+    {
+      "title": "Aethera Sound Orb 360 Acoustic Sphere",
+      "subtitle": "Floating Magnetic Resonance & Ambient Warmth",
+      "description": "A sculptural masterpiece that fills entire architectural spaces with crystalline 360-degree acoustic fidelity. Features an internal floating acoustic core, ambient warm luminescence ring, and room-sensing adaptive acoustic tuning.",
+      "price": 279,
+      "originalPrice": 320,
+      "category": "Smart Home",
+      "image": "/images/products/sound-orb.jpg",
+      "rating": 4.7,
+      "numReviews": 83,
+      "stockCount": 15,
+      "inStock": true,
+      "tag": "New Arrival",
+      "features": [
+        "True 360° Omnidirectional Room-Filling Audio",
+        "Real-Time Spatial Acoustic Calibration",
+        "Warm Dimmable Ambient Glow with Music Reactive Modes",
+        "AirPlay 2, Spotify Connect, & High-Res Bluetooth 5.3",
+        "Multi-Room Stereo Pairing with Second Orb"
+      ],
+      "specs": {
+        "Acoustic Power": "65W RMS Peak Output",
+        "Chamber": "Dual Passive Radiators + 1\" Silk Tweeter",
+        "Dimensions": "18cm Sphere Diameter",
+        "Weight": "1.85 kg",
+        "Lighting": "2700K Warm Ambient LED Ring"
+      },
+      "_id": "prod_1793078497983_3",
+      "id": "prod_1793078497983_3",
+      "createdAt": "2026-10-27T05:21:37.983Z",
+      "updatedAt": "2026-10-27T05:21:37.983Z"
+    },
+    {
+      "title": "Aura Spatial Audio & AR Smart Eyewear",
+      "subtitle": "Electrochromic Tinting & Open-Ear Micro-Speakers",
+      "description": "The pinnacle of wearable optics. Ultra-light titanium frames fitted with electrochromic lenses that tint on command, directional beamforming acoustic micro-drivers, intuitive temple touch controls, and all-day voice assistance.",
+      "price": 389,
+      "originalPrice": 450,
+      "category": "Wearables",
+      "image": "/images/products/vision-glasses.jpg",
+      "rating": 4.8,
+      "numReviews": 52,
+      "stockCount": 8,
+      "inStock": true,
+      "tag": "Limited",
+      "features": [
+        "Instant One-Tap Electrochromic Lens Tint Control",
+        "Directional Audio Cavity with Zero Acoustic Leakage",
+        "Ultra-Lightweight 36g Titanium Aerospace Frame",
+        "Dual Noise-Suppression Microphones for Crisp Calls",
+        "IP54 Sweat and Rain Resistance"
+      ],
+      "specs": {
+        "Weight": "36.5 grams",
+        "Battery": "8 Hours Continuous Playback / 48 hrs Standby",
+        "Charging": "Magnetic Temple Snap Dock",
+        "Frame Material": "Beta-Titanium Alloy",
+        "Lenses": "UV400 Polarized Electrochromic"
+      },
+      "_id": "prod_1793078497983_4",
+      "id": "prod_1793078497983_4",
+      "createdAt": "2026-10-27T05:21:37.983Z",
+      "updatedAt": "2026-10-27T05:48:12.194Z"
+    },
+    {
+      "title": "Orbit 3-in-1 MagFast Charging Station",
+      "subtitle": "Sculpted Walnut & Slate Magnetic Dock",
+      "description": "Elevate your workspace with handcrafted American walnut and weighted slate aluminum. Simultaneously powers your phone, smartwatch, and wireless earbuds with certified 15W Qi2 magnetic fast-charging and thermal management.",
+      "price": 129,
+      "originalPrice": 159,
+      "category": "Accessories",
+      "image": "/images/products/charging-dock.jpg",
+      "rating": 4.9,
+      "numReviews": 146,
+      "stockCount": 25,
+      "inStock": true,
+      "tag": "Best Seller",
+      "features": [
+        "Official Qi2 15W Magnetic Fast Charging Alignment",
+        "Simultaneous 3-Device Power Delivery (Phone, Watch, Buds)",
+        "Genuine Sustainable Solid American Walnut & Slate",
+        "Integrated Ambient Underglow Nightstand Glow",
+        "Intelligent Foreign Object & Temperature Protection"
+      ],
+      "specs": {
+        "Total Output": "25W Max Distributed Fast-Charge",
+        "Input": "USB-C PD 30W+ (Braided Cable Included)",
+        "Base Weight": "480g Anti-Slip Solid Weighted Base",
+        "Finish": "Natural Matte Walnut & Anodized Slate",
+        "Compatibility": "All MagSafe & Qi2 Compatible Devices"
+      },
+      "_id": "prod_1793078497983_5",
+      "id": "prod_1793078497983_5",
+      "createdAt": "2026-10-27T05:21:37.983Z",
+      "updatedAt": "2026-10-27T05:21:37.983Z"
+    }
+  ],
+  "orders": [
+    {
+      "orderNumber": "LUM-926209",
+      "items": [
+        {
+          "productId": "prod_1793078497983_2",
+          "title": "Veloce Blade 14 Ultra OLED Laptop",
+          "price": 1899,
+          "quantity": 2,
+          "image": "/images/products/blade-laptop.jpg"
+        }
+      ],
+      "customer": {
+        "fullName": "Alexander Vance",
+        "email": "alexander.vance@lumina-tech.com",
+        "address": "742 Evergreen Terrace, Suite 400",
+        "city": "San Francisco",
+        "postalCode": "94107",
+        "country": "United States"
+      },
+      "subtotal": 3798,
+      "discount": 0,
+      "shipping": 0,
+      "tax": 322.83,
+      "total": 4120.83,
+      "promoCode": "",
+      "paymentMethod": "Instant Card (Simulated)",
+      "paymentStatus": "Paid",
+      "orderStatus": "Processing",
+      "_id": "ord_1793081567627_un8s",
+      "id": "ord_1793081567627_un8s",
+      "createdAt": "2026-10-27T06:12:47.627Z",
+      "updatedAt": "2026-10-27T06:12:47.627Z"
+    },
+    {
+      "orderNumber": "LUM-212314",
+      "items": [
+        {
+          "productId": "prod_1793078497983_4",
+          "title": "Aura Spatial Audio & AR Smart Eyewear",
+          "price": 389,
+          "quantity": 1,
+          "image": "/images/products/vision-glasses.jpg"
+        }
+      ],
+      "customer": {
+        "fullName": "Alexander Vance",
+        "email": "alexander.vance@lumina-tech.com",
+        "address": "742 Evergreen Terrace, Suite 400",
+        "city": "San Francisco",
+        "postalCode": "94107",
+        "country": "United States"
+      },
+      "subtotal": 389,
+      "discount": 0,
+      "shipping": 0,
+      "tax": 33.07,
+      "total": 422.06,
+      "promoCode": "",
+      "paymentMethod": "Instant Card (Simulated)",
+      "paymentStatus": "Paid",
+      "orderStatus": "Processing",
+      "_id": "ord_1793080092192_ohf2",
+      "id": "ord_1793080092192_ohf2",
+      "createdAt": "2026-10-27T05:48:12.192Z",
+      "updatedAt": "2026-10-27T05:48:12.192Z"
+    },
+    {
+      "orderNumber": "LUM-381899",
+      "items": [
+        {
+          "productId": "prod_1793078497983_0",
+          "title": "Lumina Apex ANC Wireless Headphones",
+          "price": 349.99,
+          "quantity": 1,
+          "image": "/images/products/apex-headphones.jpg"
+        }
+      ],
+      "customer": {
+        "fullName": "Elena Rostova",
+        "email": "elena.rostova@lumina.luxury",
+        "address": "100 Ocean Avenue, Penthouse 12",
+        "city": "Miami",
+        "postalCode": "33139",
+        "country": "United States"
+      },
+      "subtotal": 349.99,
+      "discount": 70,
+      "shipping": 0,
+      "tax": 23.8,
+      "total": 303.79,
+      "promoCode": "LUMINA20",
+      "paymentMethod": "Instant Card (Simulated)",
+      "paymentStatus": "Paid",
+      "orderStatus": "Processing",
+      "_id": "ord_1793079882554_j85d",
+      "id": "ord_1793079882554_j85d",
+      "createdAt": "2026-10-27T05:44:42.554Z",
+      "updatedAt": "2026-10-27T05:44:42.554Z"
+    }
+  ],
+  "users": [
+    {
+      "_id": "usr_demo_alexander",
+      "id": "usr_demo_alexander",
+      "name": "Alexander Vance",
+      "email": "alexander.vance@lumina-tech.com",
+      "password": "$2b$10$FykP4xu.0Ifogrh5Li5HZuilS/ENFog0AkVstrGvi4QQTpKnJCyyu",
+      "role": "vip",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=250&q=80",
+      "shippingAddress": {
+        "address": "742 Evergreen Terrace, Suite 400",
+        "city": "San Francisco",
+        "postalCode": "94107",
+        "country": "United States"
+      },
+      "createdAt": "2026-10-27T05:55:59.496Z",
+      "updatedAt": "2026-10-27T05:55:59.497Z"
+    },
+    {
+      "name": "Ayush",
+      "email": "dehankarayush97@gmail.com",
+      "password": "$2b$10$aba0dOCzpV1NkZ4aAAVNPOhAORWLvlzV2Z/sLhFAJ/Tnl015kRKM6",
+      "role": "customer",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Ayush%20&backgroundColor=00f2fe&textColor=04101e",
+      "shippingAddress": {
+        "address": "",
+        "city": "",
+        "postalCode": "",
+        "country": "United States"
+      },
+      "_id": "usr_1793081709210_fwshb",
+      "id": "usr_1793081709210_fwshb",
+      "createdAt": "2026-10-27T06:15:09.210Z",
+      "updatedAt": "2026-10-27T06:15:09.210Z"
+    },
+    {
+      "name": "rk",
+      "email": "rajat.kanhere@gmail.com",
+      "password": "$2b$10$3YG2qhLLRJDwvGwLyA1vgO1dkNe4XOLcH3Cm5Tjk7vlL0qQ.MmtKW",
+      "role": "customer",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=rk&backgroundColor=00f2fe&textColor=04101e",
+      "shippingAddress": {
+        "address": "",
+        "city": "",
+        "postalCode": "",
+        "country": "United States"
+      },
+      "_id": "usr_1793083387092_dkooh",
+      "id": "usr_1793083387092_dkooh",
+      "createdAt": "2026-10-27T06:43:07.092Z",
+      "updatedAt": "2026-10-27T06:43:07.092Z"
+    },
+    {
+      "name": "Arya",
+      "email": "arya@1223gmai.com",
+      "password": "$2b$10$6q.lFkNEBSnlqKB4h7Z.zeifDSGjAvBLPxCxlV9jDsbu9B8RkCDAW",
+      "role": "customer",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Arya%20&backgroundColor=00f2fe&textColor=04101e",
+      "shippingAddress": {
+        "address": "",
+        "city": "",
+        "postalCode": "",
+        "country": "United States"
+      },
+      "_id": "usr_1793086452992_6d4jk",
+      "id": "usr_1793086452992_6d4jk",
+      "createdAt": "2026-10-27T07:34:12.992Z",
+      "updatedAt": "2026-10-27T07:34:12.992Z"
+    }
+  ]
+}
